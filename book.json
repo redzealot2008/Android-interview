@@ -6,4 +6,6 @@
             "className": "atoc"
         }
     }
+    
+    "plugins" : [ "anchor-navigation" ]
 }
