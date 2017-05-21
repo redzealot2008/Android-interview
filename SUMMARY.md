@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [关于本书](guan-yu-ben-shu.md)
-* Android系统架构
+* [关于本书](README.md)
+* \[Android系统架构\]\(Android系统架构.md\)
+
+
 
