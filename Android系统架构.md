@@ -1,5 +1,5 @@
 # Android系统架构
-[TOC]
+<!-- toc -->
 ---
 
 ## Google官方公布的Android系统架构
