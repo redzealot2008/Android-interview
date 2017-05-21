@@ -1,5 +1,5 @@
 # Android系统架构
-<div style="position: fixed;top:0px;left:0px;width:100%;height:50px;"><!-- toc --></div>
+<div style="position: fixed;top:0px;right:0px;width:100%;height:50px;"><!-- toc --></div>
 ---
 
 ## Google官方公布的Android系统架构
