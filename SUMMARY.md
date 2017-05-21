@@ -1,7 +1,6 @@
 # Summary
 
-* 关于本书
+* [Introduction](README.md)
+* [关于本书](guan-yu-ben-shu.md)
 * Android系统架构
-
-
 
