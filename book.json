@@ -1,9 +1,9 @@
 {
-    "plugins": ["atoc"],
+    "plugins": ["toc2"],
     "pluginsConfig": {
-        "atoc": {
+        "toc2": {
             "addClass": true,
-            "className": "atoc"
+            "className": "toc"
         }
     }
 }
