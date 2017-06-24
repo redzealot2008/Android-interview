@@ -1,3 +1,7 @@
 {
-    "plugins" : [ "navigator" ]
+	"language": "zh-hans",
+    "plugins": [ 
+		"navigator",
+		"highlight"
+	]
 }
